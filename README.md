@@ -1,8 +1,5 @@
 
-<p> 안녕하세요! 좋은 커뮤니케이션 과 실용적으로 일 하는 백 엔드 개발자 김정기 입니다.<br>
-    테스트 코드의 중요성을 알기에 테스트 코드 작성을 지향하고 있습니다.  <br>
-    읽기 좋은 코드가 좋은 코드라는 생각을 가지고 있기 일기 좋은 코드를 생각하며 코드를 바라 보고 있습니다.
-
+<p> 안녕하세요 실용적으로 일 하는 백 엔드 개발자 김정기 입니다.<br>
 </p>
 
 <h4><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
