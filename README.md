@@ -1,5 +1,5 @@
 
-<p> 안녕하세요 실용적으로 일 하는 백 엔드 개발자 김정기 입니다.<br>
+<p> 안녕하세요 실용적으로 일 하는 백엔드 개발자 김정기 입니다.<br>
 </p>
 
 <h4><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
