@@ -1,5 +1,5 @@
 
-<p> 안녕하세요 백엔드 개발자 김정기 입니다.<br>
+<p> 안녕하세요 좋은 아키텍처 와 확장성 있는 코드에 관심이 많은백엔드 개발자 김정기 입니다.<br>
 </p>
 
 <h4><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
