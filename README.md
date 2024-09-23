@@ -3,8 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        Jvm 과 Spring 진영에 공부를 하고 애정이 생긴 사람입니다.
-        좋은 아키텍처와 확장성 있는 코드에 관심이 많은 백엔드 개발자 입니다.  
+       주어진 환경에서 최대의 효율을 추구하며, 코드의 관심사 분리와 의존성 감소를 통해 
+       유지보수가 용이한 설계를 지향합니다.
     </div> 
     </div>
     <div style="text-align: left;">
