@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         Java/Spring Boot 환경의 익숙하며 주어진 환경에서 최대의 효율을 추구하고 코드의 관심사 분리와 의존성 감소를 통해 </br> 
-       유지보수가 용이한 설계를 지향합니다.
+        유지보수가 용이한 설계를 지향합니다.
     </div> 
     </div>
     <div style="text-align: left;">
