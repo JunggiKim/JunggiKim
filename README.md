@@ -26,7 +26,7 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> contribute </h2> <br>
-        <a>https://github.com/spring-cloud/spring-cloud-function/pull/1200</a> <br>
-        <a>https://github.com/spring-cloud/spring-cloud-function/pull/1199</a>
+        <a>spring-cloud/spring-cloud-function/pull/1200</a> <br>
+        <a>spring-cloud/spring-cloud-function/pull/1199</a>
     </div>
     
