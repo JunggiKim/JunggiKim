@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         Java/Spring Boot 환경의 익숙하며 안정적인 서비스를 만들어 나가는데 관심이 많습니다  </br> 
-        코드의 관심사 분리와 의존성 관리를 통해 유지보수가 용이한 설계를 지향합니다.
+        믿음직한 팀원들과 일하기 위해 믿음직한 팀원을 먼저 되려고 노력하는 중입니다.
     </div> 
     </div>
     <div style="text-align: left;">
