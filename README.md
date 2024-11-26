@@ -1,9 +1,6 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Hello&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
+   <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        Java/Spring Boot 환경의 익숙한 2년차 서버 개발자 입니다. 
+        Hi, welcome to my github.
     </div> 
     </div>
     <div style="text-align: left;">
