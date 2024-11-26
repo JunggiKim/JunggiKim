@@ -1,6 +1,7 @@
    <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        Hi, welcome to my github.
+        Hi, welcome to my github. <br/>
+       Contributor of <a href = "https://github.com/spring-cloud/spring-cloud-function">Spring-Cloud-Function</a>
     </div> 
     </div>
     <div style="text-align: left;">
@@ -19,6 +20,5 @@
     <div style="text-align: left;">
     <div style="text-align: left;">  </div> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> contribute </h2> <br>
-        <a href = "https://github.com/spring-cloud/spring-cloud-function/pull/1199">Spring-Cloud-Function</a>
     </div>
     
