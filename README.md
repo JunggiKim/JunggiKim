@@ -3,8 +3,6 @@
         Hi, welcome to my github. <br/>
        I'm working with java and spring <br/>
        Contributor of <a href = "https://github.com/spring-cloud/spring-cloud-function">Spring-Cloud-Function</a> <br/>
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjg)](https://github.com/anuraghazra/github-readme-stats) <br/>
-       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunggiKim)](https://github.com/anuraghazra/github-readme-stats)
-<!--        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ujunggiKim)](https://github.com/anuraghazra/github-readme-stats) -->
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
     </div> 
     
