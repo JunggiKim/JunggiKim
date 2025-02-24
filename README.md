@@ -1,8 +1,8 @@
-# 👋 Hello, Welcome to my GitHub
+# 👋 Hello
 
 I'm a Backend Developer working with Java and Spring, interested in building stable and scalable software systems.
 
-## 🌟 Open Source Contributions
+## 🌟 Contributions
 
 contributor to Spring  projects:
 
