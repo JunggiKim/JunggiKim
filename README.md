@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm a Backend Developer working with JVM, interested in building stable and scalable software systems.
+I’m a Backend Developer working with the JVM, with an interest in building fast and reliable software
 
 ## 🌟 Contributions
 
