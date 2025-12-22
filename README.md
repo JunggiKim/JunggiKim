@@ -9,6 +9,5 @@ I'm a Backend Developer working with the JVM, with an interest in building fast 
 
 - [spring-batch/pull/4761](https://github.com/spring-projects/spring-batch/pull/4761) 
 - [spring-batch/pull/5081](https://github.com/spring-projects/spring-batch/pull/5081)
-- [spring-batch/pull/5082](https://github.com/spring-projects/spring-batch/pull/5082)
-- [spring-cloud-function/pull/5082](https://github.com/spring-cloud/spring-cloud-function/pull/1199)
+
 
