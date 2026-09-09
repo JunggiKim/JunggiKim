@@ -19,13 +19,6 @@ A detekt plugin that supports conflict-resistant baseline fragments to prevent m
 | spring-batch | [Fix default skip policy when only retry is configured](https://github.com/spring-projects/spring-batch/pull/5080) |
 | spring-batch | [Refactor Extract bean name string literals to constants](https://github.com/spring-projects/spring-batch/pull/4761) |
 | spring-batch | [Fix retryLimit() to exclude Error types by default](https://github.com/spring-projects/spring-batch/pull/5082) |
-| spring-restdocs | [Support extracting Bean Validation constraints from method parameters](https://github.com/spring-projects/spring-restdocs/pull/1035#issuecomment-4774988653) |
 | spring-cloud-function | [Fix POJO functions to return Message consistently](https://github.com/spring-cloud/spring-cloud-function/pull/1311) |
 | spring-cloud-function | [Fixes gh-1098 Support primitive function interfaces](https://github.com/spring-cloud/spring-cloud-function/pull/1199) |
-
-## Issues
-
-| Project | Contribution |
-|:---|:---|
-| detekt/detekt | [Support conflict-resistant baseline fragments](https://github.com/detekt/detekt/issues/9496) |
-| spring-restdocs | [Support extracting Bean Validation constraints from method parameters](https://github.com/spring-projects/spring-restdocs/issues/1026) |
+| junit-framework | [Expand output dir placeholders in a single pass](https://github.com/junit-team/junit-framework/pull/6046) |
