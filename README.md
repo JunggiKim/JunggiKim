@@ -22,3 +22,4 @@ A detekt plugin that supports conflict-resistant baseline fragments to prevent m
 | spring-cloud-function | [Fix POJO functions to return Message consistently](https://github.com/spring-cloud/spring-cloud-function/pull/1311) |
 | spring-cloud-function | [Fixes gh-1098 Support primitive function interfaces](https://github.com/spring-cloud/spring-cloud-function/pull/1199) |
 | junit-framework | [Expand output dir placeholders in a single pass](https://github.com/junit-team/junit-framework/pull/6046) |
+| netty | [Use LinkedHashSet to deduplicate search domains](https://github.com/netty/netty/pull/17400) |
