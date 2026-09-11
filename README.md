@@ -17,7 +17,6 @@ A detekt plugin that supports conflict-resistant baseline fragments to prevent m
 | detekt/detekt | [Add detekt-baseline-fragments to the Marketplace](https://github.com/detekt/detekt/pull/9510) |
 | spring-boot | [Speed up layer lookups when extracting a layered jar](https://github.com/spring-projects/spring-boot/pull/51653) |
 | spring-boot | [Improve the performance of layer index creation](https://github.com/spring-projects/spring-boot/pull/51654) |
-| spring-boot | [Simplify configuration metadata changelog generation](https://github.com/spring-projects/spring-boot/pull/51655) |
 | spring-batch | [Fix silent data loss in ChunkOrientedStep when skip policy rejects](https://github.com/spring-projects/spring-batch/pull/5081) |
 | spring-batch | [Fix default skip policy when only retry is configured](https://github.com/spring-projects/spring-batch/pull/5080) |
 | spring-batch | [Refactor Extract bean name string literals to constants](https://github.com/spring-projects/spring-batch/pull/4761) |
