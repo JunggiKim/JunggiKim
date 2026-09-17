@@ -14,7 +14,6 @@ A detekt plugin that supports conflict-resistant baseline fragments to prevent m
 
 | Project | Contribution |
 |:---|:---|
-| detekt/detekt | [Add detekt-baseline-fragments to the Marketplace](https://github.com/detekt/detekt/pull/9510) |
 | spring-boot | [Speed up layer lookups when extracting a layered jar](https://github.com/spring-projects/spring-boot/pull/51653) |
 | spring-boot | [Improve the performance of layer index creation](https://github.com/spring-projects/spring-boot/pull/51654) |
 | spring-batch | [Fix silent data loss in ChunkOrientedStep when skip policy rejects](https://github.com/spring-projects/spring-batch/pull/5081) |
@@ -25,3 +24,4 @@ A detekt plugin that supports conflict-resistant baseline fragments to prevent m
 | spring-cloud-function | [Fixes gh-1098 Support primitive function interfaces](https://github.com/spring-cloud/spring-cloud-function/pull/1199) |
 | junit-framework | [Expand output dir placeholders in a single pass](https://github.com/junit-team/junit-framework/pull/6046) |
 | netty | [Use LinkedHashSet to deduplicate search domains](https://github.com/netty/netty/pull/17400) |
+| detekt/detekt | [Add detekt-baseline-fragments to the Marketplace](https://github.com/detekt/detekt/pull/9510) |
